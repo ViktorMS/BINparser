@@ -27,7 +27,7 @@ for aline in qbfile:
     currentWord = values[0]
     currentCat = values[2]
 
-    if(currentWord != lastWord and currentCat != lastCat):
+    if(currentWord+currentCat != lastWord+lastCat):
         with open(values[2]+".txt","a+") as f: 
             # https://stackoverflow.com/a/15359499
             print(currentWord + " " + currentCat)
