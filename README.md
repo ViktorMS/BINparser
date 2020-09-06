@@ -1,6 +1,30 @@
 # BINparser
 Parses BIN data to separated TXT files for each word category
 
+# Data
+https://bin.arnastofnun.is/gogn/mimisbrunnur/
+
+# Orðflokkar
+| txt | icelandic | english  |
+|-----|--------------------|-------------------|
+| afn | afturbeygt fornafn | inverted pronoun  |
+| ao  | atviksorð          | adverbs           |
+| fn  | fornöfn            | pronouns          |
+| fs  | forsetningar       | presets           |
+| gr  | greinir            | analyzes          |
+| hk  | hvorugkynsnafnorð  | neuter nouns      |
+| kk  | karlkynsnafnorð    | masculine nouns   |
+| kvk | kvenkynsnafnorð    | feminine nouns    |
+| lo  | lýsingarorð        | adjectives        |
+| nhm | nafnháttarmerki    | nameplate         |
+| pfn | persónufornöfn     | personal pronouns |
+| rt  | raðtölur           | serial numbers    |
+| so  | sagnorð            | verbs             |
+| st  | samtengingar       | interconnections  |
+| to  | töluorð            | numerals          |
+| uh  | upphrópanir        | exclamations      |
+
+
 # Screenshot
 ![Image of folder after running parser](https://raw.githubusercontent.com/ViktorMS/BINparser/master/Screenshot.png)
 
