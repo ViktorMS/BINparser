@@ -25,47 +25,30 @@ afstands
 afsýnis
 aftan
 aftanfrá
-aftan frá
 aftanhallt
 aftaní
-aftan í
 aftanmáls
 aftanúr
-aftan úr
 aftar
 aftarlega
 aftur
-afturábak
-aftur á bak
 afturámóti
-aftur á móti
 afturfyrir
-aftur fyrir
 afturí
-aftur í
 afturkvæmt
 afturundan
-aftur undan
-afturúr
-aftur úr
 afvega
 afþví
-af því
 agalega
 aldeilis
 aldregi
-aldrei
 alfarið
 algerlega
 algjörlega
 allajafna
-alla jafna
 allareiðu
-alla vega
-allavegana
 alldjúpt
 alleina
-alleinasta
 allfjarri
 allhrapallega
 allilla
@@ -77,25 +60,14 @@ alloft
 allra
 alls
 allsekki
-alls ekki
-allsendis
 allshuga
-allshugar
 allskostar
-alls kostar
 allsstaðar
-alls staðar
 alltaf
-allténd
-alltént
 alltíeinu
-allt í einu
-alltjend
 alltof
 alltso
-alltsvo
 allvel
-allverulega
 allvíða
 almennilega
 almennt
@@ -125,10 +97,7 @@ ankannalega
 annarlega
 annars
 annarsstaðar
-annars staðar
 annarstaðar
-annarsvegar
-annars vegar
 asnalega
 atarna
 athugasemdalaust
@@ -143,48 +112,32 @@ auðvitað
 augljóslega
 augsýnilega
 augsýnlega
-auka
 aukalega
 aukheldur
-aukinheldur
 aukreitis
 aulalega
 aumingjalega
 aumkunarlega
 aumlega
 austanfjalls
-austanfrá
-austan frá
 austanhallt
 austanlands
 austanmegin
-austan megin
 austansuðaustan
 austantil
-austan til
-austantjalds
-austan undir
 austanvert
 austanvið
-austan við
 austarlega
 austnorðan
-austnorðaustur
 austsuðaustur
 austureftir
-austur eftir
 austurfrá
-austur frá
 austurfyrir
-austur fyrir
 austurúr
-austur úr
 austuryfir
-austur yfir
 ábrekkis
 ábyggilega
 áðan
-áður
 áfallalaust
 áfergjulega
 áfram
@@ -230,18 +183,15 @@ austur yfir
 áþreifanlega
 bagalega
 bakatil
-baka til
 bakborðsmegin
 bakdyramegin
 bakk
 baksviðs
 bakvið
-bak við
 bamburslega
 bandhringlandi
 bara
 barasta
-barastana
 baráttulaust
 barnalega
 barndómlega
@@ -249,7 +199,6 @@ barndómslega
 barnslega
 basta
 báðumegin
-báðum megin
 bágindalega
 báglega
 bágt
@@ -257,7 +206,6 @@ beinleiðis
 beinlínis
 beint
 beisklega
-beisklegana
 berbakt
 berlega
 bermilega
@@ -271,7 +219,6 @@ billega
 biskuplega
 biskupslega
 biturlega
-biturlegana
 bílleiðis
 bjarglega
 bjartlega
@@ -293,7 +240,6 @@ bljúglega
 blóðuglega
 blómlega
 blygðunarlaust
-blygðunarlega
 blygðunarsamlega
 blöskranlega
 blöskrunarlega
@@ -313,7 +259,6 @@ bráðhendis
 bráðindis
 bráðla
 bráðlega
-bráðlegana
 bráðsnemma
 bráðum
 bráðvel
@@ -406,7 +351,6 @@ drjúgum
 drumbslega
 drýgindalega
 dræmlega
-dræmt
 duglega
 dult
 dyggilega
@@ -424,7 +368,6 @@ efnilega
 efnislega
 efsamt
 eftirá
-eftir á
 eftirleiðis
 eftirminnilega
 eftirtakanlega
@@ -433,14 +376,12 @@ eigi
 eigindarlega
 eigindlega
 eiginlega
-eiginlegana
 eignarlega
 eilíflega
 eilíft
 eilítið
 ein
 einarðlega
-einatt
 einbeittlega
 eindregið
 einfaldlega
@@ -448,20 +389,12 @@ eingöngu
 einhendis
 einhestis
 einhverju sinni
-einhverntíma
-einhvern tíma
-einhverntímann
-einhvern tímann
-einhvernveginn
-einhvern veginn
 einhversstaðar
-einhvers staðar
 einingarlega
 einingarsamlega
 einka
 einkalega
 einkanlega
-einkanlegana
 einkar
 einkarlega
 einkennilega
@@ -471,8 +404,6 @@ einlægt
 einmitt
 einna
 einnegin
-einnig
-einninn
 einnug
 einslags
 einslega
@@ -482,10 +413,8 @@ eintrjáningslega
 einuhverjusinni
 einungis
 einusinni
-einu sinni
 einvörðungu
 eiturlega
-eiturlegana
 ekkí
 ekta
 eldsnemma
@@ -498,18 +427,12 @@ embættislega
 endalaust
 endanlega
 endilega
-endilegana
 endranær
-endrum
-endur
 endurgjaldslaust
 enganveginn
-engan veginn
 enn
 ennfremur
-enn fremur
 ennþá
-enn þá
 erfðalega
 erfiðar
 erfiðlega
@@ -552,7 +475,6 @@ feikilega
 feiknalega
 feiknarlega
 feiknavel
-feiknlega
 feimnislega
 ferfalt
 ferlega
@@ -616,51 +538,31 @@ forsælis
 fortakslaust
 forvarandis
 forviðris
-forvindis
 framaf
-fram af
 framan
-framanaf
-framan af
 framaní
-framan í
 framanúr
-framan úr
 framanvert
 framarlega
 framá
-fram á
 framávið
-fram á við
 frameftir
-fram eftir
 framfrá
-fram frá
 framfyrir
-fram fyrir
 framhjá
-fram hjá
 framí
-fram í
 framleiðis
 frammá
 frammi
 frammifyrir
-frammi fyrir
 frammí
 frammúr
 frammyfir
 framundan
-fram undan
-framundir
-fram undir
 framúr
-fram úr
 framvegis
 framvið
-fram við
 framyfir
-fram yfir
 frábærlega
 frákonumegin
 frámunalega
@@ -691,7 +593,6 @@ fúllspítt
 fúslega
 fyllilega
 fyrirfram
-fyrir fram
 fyrirhafnarlaust
 fyrirlitlega
 fyrirsjáanlega
@@ -737,7 +638,6 @@ geðuglega
 geðvonskulega
 gefins
 gegndarlaust
-gegndarlega
 gegnilega
 geipilega
 geistlega
@@ -763,21 +663,17 @@ girndarlega
 gistilega
 gífurlega
 gjarna
-gjarnan
-gjarnsamlega
 gjörla
 gjörsamlega
 gjörva
 glaðhlakkalega
 glaðklakkalega
 glaðlega
-glaðlegana
 glamurlega
 glannalega
 glanslega
 glatt
 gleðilaust
-gleðilega
 gleiddarlega
 gleraugnalaust
 glettilega
@@ -794,10 +690,8 @@ glæfralega
 glænepjulega
 glæsilega
 glögglega
-glögglegana
 glöggt
 gnóg
-gnóglega
 golandi
 golulega
 gortaralega
@@ -819,7 +713,6 @@ gráðuglega
 gráðulega
 grálega
 grátlega
-grátlegana
 greiðhendis
 greiðilega
 greiðlega
@@ -894,8 +787,6 @@ harðhnakkanlega
 harðindalega
 harðinglega
 harðla
-harðlega
-harðlegana
 harðmannlega
 harðneskjulega
 harkalega
@@ -904,9 +795,7 @@ harla
 hart
 hartnær
 hastarlega
-hastarlegana
 haturlega
-hatursamlega
 haturslega
 haustlega
 háðlega
@@ -938,12 +827,9 @@ hávestan
 hefðarlega
 heiðarlega
 heiðurlega
-heiðursamlega
 heiftarlega
 heigullega
 heilagla
-heilaglega
-heilaglegana
 heilagt
 heildarlega
 heillega
@@ -952,12 +838,9 @@ heilmikið
 heilsulega
 heim
 heimafyrir
-heima fyrir
 heiman
 heimanfrá
-heiman frá
 heimar
-heimara
 heimarlega
 heimildarlaust
 heimilislega
@@ -977,27 +860,20 @@ hentuglega
 heppilega
 heppnislega
 herfilega
-herfilegana
 herfulega
 herkjulega
 hermannlega
 hermilega
 hernaðarlega
 herralega
-herralegana
 hetjulega
 heyranlega
 héðan
 héðar
-héðarlega
 hégómla
-hégómlega
 hér
 hérlendis
 hérmeð
-hér með
-hérna
-hérnana
 hérsveitis
 hiklaust
 hikstalaust
@@ -1006,15 +882,11 @@ hindardags
 hingað
 hingana
 hinsvegar
-hins vegar
-hinumegin
-hinum megin
 hirðulaust
 hirðusamlega
 hispurslaust
 hitteðfyrra
 hittiðfyrra
-hittilega
 hjarna
 hjartanlega
 hjákátlega
@@ -1022,7 +894,6 @@ hjákonumegin
 hjálparlaust
 hjálplega
 hjálpsamlega
-hjálpsamligana
 hjárænulega
 hlákulega
 hlálega
@@ -1068,11 +939,9 @@ hraksamlega
 hraksmánarlega
 hranalega
 hrapalega
-hrapallega
 hraparlega
 hratt
 hraustla
-hraustlega
 hreina
 hreinlega
 hreinskilnislega
@@ -1091,7 +960,6 @@ hrikalega
 hríðarlega
 hrjóstruglega
 hrjóstrungslega
-hrjóstuglega
 hrjósturlega
 hroðalega
 hroðvirknislega
@@ -1106,7 +974,6 @@ hryggilega
 hryllilega
 hryssingslega
 hræðilega
-hræðilegana
 hræðslulega
 hræmuglega
 hræranlega
@@ -1118,7 +985,6 @@ hugðsamlega
 huglægt
 hugsanlega
 hugsunarlaust
-hugsunarlega
 hugvitsamlega
 huldulega
 hundraðfalt
@@ -1143,16 +1009,12 @@ hvernig
 hversdags
 hversdagslega
 hversu
-hversvegna
-hvers vegna
-hvert
 hviklaust
 hvimpnislega
 hvinnslega
 hvíldarlaust
 hvorkinlega
 hvorumegin
-hvorum megin
 hyggilega
 hýrlega
 hæðilega
@@ -1162,11 +1024,9 @@ hæfilega
 hæfislega
 hæflega
 hægan
-hægara
 hæglega
 hæglætislega
 hægramegin
-hægra megin
 hægt
 hækilega
 hæpilega
@@ -1182,7 +1042,6 @@ hömlulaust
 hönduglega
 hörkulega
 hörmulega
-hörmulegana
 höstuglega
 iðjulega
 iðnaðarlega
@@ -1200,28 +1059,19 @@ illúðlega
 illyrmislega
 indælislega
 innaf
-inn af
 innanborðs
 innanbrjósts
-innanbúðar
 innanbæjar
 innandyra
 innanfjarða
-innanfjarðar
 innanfótar
 innanfrá
-innan frá
 innangarðs
-innangátta
 innanhafnar
 innanhandar
-innanhéraðs
 innanhrepps
 innanhúss
 innaní
-innan í
-innanífrá
-innan í frá
 innanklæða
 innanlands
 innanlærs
@@ -1229,44 +1079,24 @@ innanrifja
 innanstokks
 innansveitar
 innanum
-innan um
-innan undir
-innanúr
-innan úr
 innanvið
-innan við
 innarlega
-inná
-inn á
 innávið
-inn á við
 inneftir
-inn eftir
 innfirðis
 innfrá
-inn frá
 innfyrir
-inn fyrir
 innhallt
 innifyrir
-inni fyrir
 innivið
-inni við
 inní
-inn í
 innra
 innsveitis
 innum
-inn um
-innundir
-inn undir
 innúr
-inn úr
 innvið
-inn við
 innvirðulega
 innyfir
-inn yfir
 íbyggilega
 íhyglislega
 ímun
@@ -1286,7 +1116,6 @@ jafnharðan
 jafnlengi
 jafnmikið
 jafnnær
-jafnnærri
 jafnoft
 jafnóðum
 jafnótt
@@ -1307,7 +1136,6 @@ kaldlega
 kaldranalega
 kankvíslega
 kannske
-kannski
 kappsamlega
 karglega
 karlmannlega
@@ -1345,7 +1173,6 @@ klókindalega
 klóklega
 klunnalega
 klúðurlega
-klúðurslega
 klúrlega
 knapplega
 knálega
@@ -1371,7 +1198,6 @@ krókleiðis
 krullulega
 kræsilega
 kröftuglega
-kröftugt
 kröftulega
 kubbslega
 kuldalega
@@ -1407,7 +1233,6 @@ kýmnislega
 kælulega
 kænlega
 kærlega
-kærlegana
 kæruleysislega
 lafhægt
 lagalega
@@ -1427,13 +1252,11 @@ langmest
 langminnst
 langoftast
 langs
-langsamlega
 langsetis
 langstundum
 langsum
 langt
 langtífrá
-langt í frá
 langtum
 lapalega
 larfalega
@@ -1470,7 +1293,6 @@ lélega
 léns
 létt
 léttan
-léttar
 léttilega
 léttlega
 léttúðarsamlega
@@ -1488,7 +1310,6 @@ listilega
 líðilega
 líflega
 lífrænt
-lífs
 lífshættulega
 líft
 líka
@@ -1505,20 +1326,16 @@ lítilmannlega
 lítilmótlega
 lítt
 ljóslega
-ljóslegana
 ljóst
 ljótlega
 ljúflega
-ljúflegana
 ljúfmannlega
 ljúfsamlega
 loflega
 lofsamlega
-lofsamlegana
 loftleiðis
 lognborða
 loks
-loksins
 losalega
 lostalega
 lostuglega
@@ -1599,7 +1416,6 @@ meinsamlega
 meir
 meistaralega
 meistarlega
-meistarleganna
 mektuglega
 memm
 mennilega
@@ -1608,12 +1424,10 @@ menntalega
 menntunarlega
 mergjað
 merkilega
-merkilegana
 merkjanlega
 merklega
 mestanpart
 mestlega
-mestmegnis
 miðfirðis
 miðhlíðis
 miðleiðis
@@ -1628,33 +1442,26 @@ mikilúðlega
 mikinn
 miklu
 mildilega
-mildilegana
 mildlega
 milliliðalaust
 minnanlega
 minnilega
 minnkunarlega
-minnkunarsamlega
 minnur
 mis
 misdægurt
 misjafnlega
-misjafnt
 miskunnarlaust
-miskunnarlega
 miskunnsamlega
 mislangt
 mislengi
 misreitis
 misserislangt
-misserislega
 misvel
 misviturlega
 mitt
 mínmegin
-mín megin
 mjúklega
-mjúklegana
 mjög
 montaralega
 morðingjalega
@@ -1688,7 +1495,6 @@ nauðailla
 nauðasjaldan
 nauðilla
 nauðla
-nauðlega
 nauðsynlega
 nauðuglega
 nauðulega
@@ -1701,61 +1507,37 @@ náðandis
 náðarlega
 náðarsamlega
 náðlega
-náðsamlega
 náðuglega
 náið
 nákvæmlega
 nálega
 náttúrlega
-náttúrlegana
 náttúrlegvísa
 náttúrulega
 náungalega
 náungasamlega
 neðanfrá
-neðan frá
 neðanjarðar
 neðanmáls
 neðansjávar
 neðanvert
-neðanvið
-neðan við
 neðarlega
 neðra
 nefnilega
 neikvætt
-neilega
 neitandi
 nett
 nettlega
 nettó
 neyðarlega
 niðrá
-niðreftir
-niðri
-niðrifyrir
-niðri fyrir
 niðrí
-niðrum
 niðrundan
-niðrúr
 niður á
-niðurávið
-niður á við
 niðureftir
-niður eftir
 niðurfrá
-niður frá
-niðurfyrir
-niður fyrir
 niður í
 niður um
-niðurundan
-niður undan
-niðurundir
-niður undir
-niðurúr
-niður úr
 nipurlega
 nirfilslega
 níðangalega
@@ -1772,52 +1554,29 @@ nístingslega
 nokk
 nokkuð
 nokkurntíma
-nokkurn tíma
-nokkurntímann
-nokkurn tímann
-nokkurnveginn
-nokkurn veginn
 nokkursstaðar
-nokkurs staðar
 norðanfjalls
 norðanfrá
-norðan frá
 norðanlands
 norðanmegin
-norðan megin
 norðantil
-norðan til
 norðanvert
-norðanvið
-norðan við
 norðarlega
 norðaustan
 norðaustantil
-norðaustan til
-norðnorðvestur
 norðureftir
-norður eftir
 norðurfrá
-norður frá
 norðurfyrir
-norður fyrir
 norðurundan
-norður undan
-norðurúr
-norður úr
 norðuryfir
-norður yfir
 norðvestan
 norðvestantil
-norðvestan til
 norðvestursuðaustur
 nostursamlega
 nosturslega
 notalega
 notinlega
 nóg
-nóglega
-nóglegana
 nógsamlega
 nógu
 núna
@@ -1844,23 +1603,14 @@ nætursakir
 nöturlega
 obbalega
 obboðslega
-ofanaf
-ofan af
 ofaná
-ofan á
 ofanfrá
-ofan frá
 ofaní
-ofan í
 ofanjarðar
 ofansjávar
 ofanúr
-ofan úr
 ofanvert
-ofanvið
-ofan við
 ofanyfir
-ofan yfir
 ofarlega
 ofboðslega
 oflendis
@@ -1873,12 +1623,9 @@ ofurhægt
 ofurlítið
 ofurvarlega
 oná
-oní
-onyfir
 opinberlega
 opinskátt
 orðalaust
-orðalega
 orðlega
 orðrétt
 orðulega
@@ -1897,20 +1644,16 @@ orkulega
 óðlega
 óðslega
 óðulega
-óðum
 óeðlilega
 óefað
 óendanlega
 óforvarandis
-óforvarendis
 ófriðlega
 ógeðslega
 ógjarna
-ógjarnan
 ógjörla
 óglöggt
 ógnarlega
-ógnarlegasta
 ógnarlengi
 ógni
 ógreinilega
@@ -1995,7 +1738,6 @@ peningalega
 persónulega
 pínilega
 pínu
-pínulega
 píslarlega
 plágulega
 plumplega
@@ -2010,12 +1752,10 @@ prýðilega
 prýðislega
 prýðisvel
 pukurlega
-pukurslega
 raddlega
 raglega
 rakklega
 rakleiðis
-rakleitt
 rammbyggilega
 rammlega
 ranghendis
@@ -2028,7 +1768,6 @@ raunverulega
 rausnarlega
 rausnarsamlega
 ráðlauslega
-ráðlega
 ráðleysislega
 ráðvandlega
 refslega
@@ -2050,17 +1789,14 @@ reytingslega
 rélega
 réttferðuglega
 réttilega
-réttilegana
 réttlátlega
 réttlega
-réttleganna
 réttleiðis
 réttlínis
 réttstundis
 réttsýnis
 réttsælis
 réttumegin
-réttum megin
 réttvíslega
 riddaralega
 rigningarlega
@@ -2068,7 +1804,6 @@ rigtuglega
 risalega
 risnulega
 ríflega
-ríflegana
 ríklega
 ríkuglega
 ríkulega
@@ -2109,14 +1844,12 @@ rökrétt
 röksamlega
 rökvíslega
 röskan
-rösklega
 sakleysislega
 saknaðarlega
 saman
 samanlagt
 samans
 samanvið
-saman við
 samdægurs
 sameiginlega
 samfellt
@@ -2154,7 +1887,6 @@ seinan
 seinlega
 seint
 semsagt
-sem sagt
 senn
 sennilega
 settlega
@@ -2162,7 +1894,6 @@ sexfalt
 sélega
 sér
 sérdeilis
-sérdeilislega
 sérílagi
 sérkennilega
 sérlega
@@ -2175,12 +1906,10 @@ sigalega
 sigursamlega
 silalega
 sirka
-sirkabát
 sirnulega
 sisona
 sí
 sídægris
-síð
 síðar
 síðdegis
 síðsumars
@@ -2191,7 +1920,6 @@ sílega
 símleiðis
 sínklega
 sínmegin
-sín megin
 sjaldan
 sjáanlega
 sjálfsagt
@@ -2207,8 +1935,6 @@ skakkreitis
 skammarlega
 skammdægurt
 skammlaust
-skammlega
-skammlegana
 skammt
 skammtlega
 skaplega
@@ -2225,13 +1951,10 @@ skálkslega
 skálkulega
 skáreitis
 skelega
-skelegglega
 skelfilega
-skelfilegana
 skelmislega
 skemmdarlega
 skemmilega
-skemmilegana
 skemmtilega
 skepnulega
 skikkanlega
@@ -2254,7 +1977,6 @@ skjannalega
 skjóllega
 skjólmegin
 skjótla
-skjótlega
 skjótt
 skjön
 skoðanlega
@@ -2278,7 +2000,6 @@ skyldulega
 skyndilega
 skynjuglega
 skynsamlega
-skynsamlegana
 skynsemislega
 skýrar
 skýrlega
@@ -2295,8 +2016,6 @@ sleifaralega
 sleimilega
 sleitilega
 sleitulaust
-sleitulega
-sleitusamlega
 slepjulega
 slettingslega
 slétt
@@ -2309,10 +2028,8 @@ slóðalega
 slóttuglega
 slyðrusamlega
 slysalaust
-slysalega
 slyslega
 slyttingslega
-slyttislega
 slyttulega
 slæglega
 slælega
@@ -2321,7 +2038,6 @@ slörkulega
 smálega
 smám
 smámsaman
-smám saman
 smámunalega
 smánarlega
 smásálarlega
@@ -2341,7 +2057,6 @@ sneglulega
 snemmendis
 snemmhausts
 snemmsumars
-snemmt
 snerpilega
 snerpulega
 sneypulega
@@ -2366,7 +2081,6 @@ snöfurmannlega
 snögglega
 snöggsinnis
 snöggt
-snöggtum
 snöggvast
 soldið
 sona
@@ -2430,7 +2144,6 @@ stíllega
 stjórnarfarslega
 stjórnborðsmegin
 stjórnlaust
-stjórnlega
 stjórnunarlega
 stofumegin
 stoltaralega
@@ -2444,7 +2157,6 @@ stórilla
 stórkarlalega
 stórkostlega
 stórlega
-stórlegana
 stórmannlega
 stórslysalaust
 stórt
@@ -2485,53 +2197,26 @@ subbulega
 suðaustan
 suðaustanlands
 suðrí
-suðuraf
-suður af
 suðureftir
-suður eftir
 suðurfrá
-suður frá
-suðurfyrir
-suður fyrir
 suðurí
-suður í
 suðurmeð
-suður með
 suðurundan
-suður undan
-suðurúr
-suður úr
 suðuryfir
-suður yfir
 suðvestan
 suðvestantil
-suðvestan til
 suðvesturundan
-suðvestur undan
 sultarlega
 sumarlangt
 sumpart
-sumpartinn
 sumsstaðar
-sums staðar
-sumstaðar
 sumtíðis
 sundur
-sunnanað
-sunnan að
 sunnanfjalls
-sunnanfrá
-sunnan frá
 sunnanlands
 sunnanmegin
-sunnan megin
 sunnantil
-sunnan til
-sunnanundir
-sunnan undir
 sunnanvert
-sunnanvið
-sunnan við
 sunnarlega
 svaðalega
 svaka
@@ -2544,7 +2229,6 @@ sveimlega
 sveitalega
 sveitarlega
 svikalaust
-svikalega
 sviklega
 sviksamlega
 svinnlega
@@ -2558,8 +2242,6 @@ svínslega
 svolegana
 svolítið
 svo sem
-svotil
-svo til
 svæsnislega
 syðra
 syfjulega
@@ -2577,7 +2259,6 @@ sældarlega
 sælinú
 sællega
 sæmilega
-sæmilegana
 sætlega
 söðulvega
 sögulega
@@ -2590,7 +2271,6 @@ tals
 talsins
 talsvert
 tarna
-tarnana
 táknlega
 tárandi
 tekjumegin
@@ -2602,7 +2282,6 @@ térna
 tiginmannlega
 tignarlega
 tilbaka
-til baka
 tilbreytingarlaust
 tildurslega
 tilfinningalega
@@ -2632,10 +2311,8 @@ tómlátlega
 tómlega
 trassalega
 trauðla
-trauðlega
 trauðum
 traustlega
-traustlegana
 trássuglega
 trássulega
 trássunarlega
@@ -2662,7 +2339,6 @@ tvímælalaust
 tvímælt
 tvíraddað
 tvívega
-tvívegis
 tvovega
 tvöfalt
 tyrknesklega
@@ -2686,7 +2362,6 @@ töturlega
 ugglaust
 umbergis
 umbúðalaust
-umbúðalítið
 umhendis
 umhent
 umhorfs
@@ -2700,21 +2375,16 @@ umyrðalaust
 unaðslega
 undanfarið
 undantekningalaust
-undantekningalítið
 undantekningarlaust
 undanúr
-undan úr
 undarlega
-undarlegana
 undirbúningslaust
 undireins
-undir eins
 undirfurðulega
 undra
 undravel
 undrunarlega
 undurheitt
-undurhægt
 undursamlega
 ungalega
 ungæðislega
@@ -2722,123 +2392,75 @@ unnum
 unnvörpum
 ununarlega
 ununarsamlega
-uppað
-upp að
 uppaf
-upp af
 uppá
-upp á
 uppávið
-upp á við
 uppeftir
-upp eftir
 uppfrá
-upp frá
 uppfyrir
-upp fyrir
 upphaflega
 upphátt
 uppi
 uppí
-upp í
-uppíloft
 upprunalega
 uppstreymis
 uppundan
-upp undan
-uppundir
-upp undir
 uppúr
-upp úr
 uppvið
-upp við
 uppyfir
-upp yfir
 utanaf
-utan af
 utanbókar
 utanbæjar
 utandyra
 utanfótar
 utanfrá
-utan frá
 utangarðs
 utanhandar
 utanhúss
 utanífrá
-utan í frá
 utankirkju
 utanlands
 utanmeð
-utan með
 utanskerja
 utansóknar
 utanstokks
 utansveitar
 utanum
-utan um
 utanundir
-utan undir
-utanúr
-utan úr
 utanveltu
 utanvið
-utan við
 utanyfir
-utan yfir
 utanþings
 utarlega
 úrhendis
 úrhættis
 úrkosta
-úrkostis
 úrleiðis
-úrlendis
 úrskeiðis
 úrtímis
 úrættis
-útaf
-út af
 útaffyrir
-út af fyrir
 útá
-út á
 útávið
-út á við
 útbyrðis
 útfrá
-út frá
 útfyrir
-út fyrir
 úti
 útifyrir
-úti fyrir
 útivið
-úti við
 útí
-út í
-útífrá
-út í frá
 útnorðan
 útsunnan
 útum
-út um
-útundir
-út undir
 útúr
-út úr
 útvið
-út við
 útyfir
-út yfir
 vafalaust
-vafalítið
 vafningalaust
 vakurlega
 van
 vanalega
 vandlega
-vandlegana
 vandræðalega
 vandvirknislega
 vansalaust
@@ -2850,7 +2472,6 @@ varfærnislega
 vargalega
 varkárlega
 varla
-varlega
 varsamlega
 vart
 varúðarlega
@@ -2862,7 +2483,6 @@ vasklega
 válega
 veðurlega
 vegnaþess
-vegna þess
 vegsamlega
 vegu
 veiðilega
@@ -2875,7 +2495,6 @@ velvirkt
 vendilega
 venjulega
 verðuglega
-verðuglegana
 verkanlega
 verklega
 verslega
@@ -2887,35 +2506,22 @@ veskú
 veslega
 vestanfjalls
 vestanfrá
-vestan frá
 vestanhafs
-vestanhallt
 vestanlands
 vestanmegin
-vestan megin
 vestantil
-vestan til
-vestantjalds
 vestanvert
 vestanvið
-vestan við
 vestar
 vestarlega
 vestra
 vestryfir
 vestsuðvestur
 vestureftir
-vestur eftir
 vesturfrá
-vestur frá
 vesturfyrir
-vestur fyrir
 vesturundan
-vestur undan
-vesturúr
-vestur úr
 vesturyfir
-vestur yfir
 vesældarlega
 vesællega
 vetrarlangt
@@ -2930,7 +2536,6 @@ viðunanlega
 viðvaningslega
 vigtuglega
 vikulega
-viljanlega
 viljuglega
 villt
 villulaust
@@ -2944,20 +2549,15 @@ virðilega
 virðingarfyllst
 virðingarlega
 virðuglega
-virðulega
 virkilega
 virktalega
-virktavel
 virkuglega
 visnunarlega
 vissilega
-visslega
-vissulega
 vita
 vitanlega
 vitaskuld
 vitlaust
-vitlega
 vitleysislega
 vituglega
 vitundarlega
@@ -2966,7 +2566,6 @@ víða
 víðara
 víðsfjarri
 víðsvegar
-víðs vegar
 vígalega
 vígamannlega
 víglega
@@ -2982,7 +2581,6 @@ víst
 vítt
 voða
 voðalega
-voðalegana
 vofeiflega
 vofulega
 vogslega
@@ -2990,7 +2588,6 @@ vogunarlega
 vogunarsamlega
 vokinlega
 volduglega
-volduglegana
 volega
 volæðislega
 vonarlega
@@ -3004,13 +2601,10 @@ vorlega
 vottanlega
 vottlega
 voveifis
-voveiflega
 vægðarlaust
-vægðarlega
 vægðarsamlega
 vægilega
 vægjanlega
-væglega
 vægt
 vælulega
 væmilega
@@ -3026,7 +2620,6 @@ vönduglega
 vöndulega
 yfirhöfuð
 yfirí
-yfir í
 yfirleitt
 yfirlætislega
 yfirnáttúrlega
@@ -3034,11 +2627,9 @@ yfirnáttúrulega
 yfirskipa
 yfirskips
 yfirum
-yfir um
 yfirvegað
 yfrið
 yfruglega
-yfrum
 yndislega
 ynnilega
 ypparlega
@@ -3047,21 +2638,14 @@ ytra
 ýmislega
 ýtarlega
 þaðan
-þaðanífrá
-þaðan í frá
 þagnarlega
 þakklátlega
 þakksamlega
 þangað
 þaraðauki
-þar að auki
-þaraðlútandi
-þar að lútandi
 þarafleiðandi
-þar af leiðandi
 þarfsamlega
 þarmeð
-þar með
 þarna
 þarsveitis
 þegnlega
@@ -3072,21 +2656,15 @@ ytra
 þerrilega
 þerrislega
 þesslega
-þessvegna
-þess vegna
 þetta
 þénustulega
-þénustusamlega
 þérna
 þétt
-þéttar
 þéttilega
 þéttingsfast
 þéttlega
 þinglega
 þínmegin
-þín megin
-þínslega
 þjóðernislega
 þjóðfélagslega
 þjóðhagslega
@@ -3106,7 +2684,6 @@ ytra
 þóknanlega
 þóttalega
 þrautalaust
-þrautalega
 þrautlega
 þráalega
 þráfaldlega
@@ -3118,7 +2695,6 @@ ytra
 þrásinnis
 þrásækilega
 þráttfyrir
-þrátt fyrir
 þrefalt
 þreifanlega
 þreklega
@@ -3143,7 +2719,6 @@ ytra
 þungan
 þunglamalega
 þunglega
-þunglegana
 þungt
 þurrfætis
 þurrklega
@@ -3162,11 +2737,9 @@ ytra
 þvers
 þversfótar
 þverskipa
-þverskips
 þversum
 þvert
 þverúðarlega
-þverúðarsamlega
 þverúðlega
 þvervestan
 þveröfugt
@@ -3185,14 +2758,11 @@ ytra
 þýlega
 þægilega
 æðilega
-æðilengi
 æðislega
 æðrulaust
-æðrulega
 æfar
 ægilega
 ærið
-ærilega
 ærlega
 ærusamlega
 æsilega
@@ -3201,14 +2771,9 @@ ytra
 ætíð
 æva
 ævalengi
-ævar
 ævilangt
 ævinlega
-ævinlegana
 öðruhverju
-öðruhvoru
-öðrumegin
-öðrum megin
 öfga
 öfuglega
 öfugt
@@ -3226,6 +2791,5 @@ ytra
 örsjaldan
 ört
 örugglega
-öskranlega
 ötulast
 ötullega

@@ -11,9 +11,7 @@
 #   
 #   https://bin.arnastofnun.is/gogn/mimisbrunnur/
 #   
-#   Written using Python 2.7.16 @ macOS 10.15.6
-#   Parsing took about 35 seconds
-#   Could be improved by paralell proccessing
+#   Timing could be improved by paralell proccessing
 # ---------------------------------------------------
 import time
 
