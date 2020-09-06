@@ -22,18 +22,21 @@ t0 = time.time()
 qbfile = open("KRISTINsnid.csv", "r")
 
 lastWord = ""
+lastCat = ""
 
 for aline in qbfile:
     values = aline.split(";")
     currentWord = values[0]
+    currentCat = values[2]
 
-    if(currentWord != lastWord):
+    if(currentWord != lastWord and currentCat != lastCat):
         with open(values[2]+".txt","a+") as f: 
             # https://stackoverflow.com/a/15359499
-            print(currentWord)
+            print(currentWord + " " + currentCat)
             f.write(values[0])
             f.write("\n")
     lastWord = currentWord
+    lastCat = currentCat
 
 qbfile.close()
 
