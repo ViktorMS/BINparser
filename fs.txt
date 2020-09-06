@@ -1,17 +1,25 @@
+að
+af
 alltað
+andspænis
 auk
 austan
 austanundir
+austur
+á
 án
 árla
 ásamt
+bak
 eftir
+fjarri
 fjær
 fram
 frá
 fyrir
 gagnstætt
 gagnvart
+gegn
 gegnt
 gegnum
 handa
@@ -22,9 +30,11 @@ innan
 innanundir
 í
 jafnframt
+jafnhliða
 kring
 kringum
 með
+meðal
 meður
 miðli
 milli
@@ -45,7 +55,10 @@ ofar
 óháð
 órafjarri
 sakir
+samfara
+samhliða
 samkvæmt
+samskipa
 samtímis
 síðan
 síðla
@@ -53,6 +66,7 @@ snemma
 sunnan
 sökum
 til
+tráss
 um
 umfram
 umhverfis
@@ -66,5 +80,7 @@ utan
 út undan
 vegna
 vestan
+vestur
 við
+viður
 yfir

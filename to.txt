@@ -1,7 +1,10 @@
 átján
+átta
 áttatíu
 billjón
+einn
 ellefu
+fimm
 fimmtán
 fimmtíu
 fjórir
@@ -26,10 +29,13 @@ níu
 níutíu
 núll
 sautján
+sex
 sextán
 sextíu
 seytján
+sjö
 sjötíu
+skrilljón
 tíu
 tólf
 trilljón
@@ -38,3 +44,4 @@ tveir
 þrettán
 þrír
 þrjátíu
+þúsund
