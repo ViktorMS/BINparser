@@ -1,6 +1,9 @@
 # BINparser
 Parses BIN data to separated TXT files for each word category
 
+# Screenshot
+![Image of folder after running parser](https://raw.githubusercontent.com/ViktorMS/BINparser/master/Screenshot%202020-09-06%20at%2012.06.26.png)
+
 # Skilmálar BÍN
 
 Skilmálar um notkun gagna úr Beygingarlýsingu íslensks nútímamáls
