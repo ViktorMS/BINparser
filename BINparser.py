@@ -11,9 +11,7 @@
 #   
 #   https://bin.arnastofnun.is/gogn/mimisbrunnur/
 #   
-#   Written using Python 2.7.16 @ macOS 10.15.6
-#   Parsing took about 35 seconds
-#   Could be improved by paralell proccessing
+#   Timing could be improved by paralell proccessing
 # ---------------------------------------------------
 import time
 
@@ -22,18 +20,21 @@ t0 = time.time()
 qbfile = open("KRISTINsnid.csv", "r")
 
 lastWord = ""
+lastCat = ""
 
 for aline in qbfile:
     values = aline.split(";")
     currentWord = values[0]
+    currentCat = values[2]
 
-    if(currentWord != lastWord):
+    if(currentWord != lastWord and currentCat != lastCat):
         with open(values[2]+".txt","a+") as f: 
             # https://stackoverflow.com/a/15359499
-            print(currentWord)
+            print(currentWord + " " + currentCat)
             f.write(values[0])
             f.write("\n")
     lastWord = currentWord
+    lastCat = currentCat
 
 qbfile.close()
 
