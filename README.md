@@ -7,11 +7,11 @@ https://bin.arnastofnun.is/gogn/mimisbrunnur/
 # Orðflokkar
 | txt | icelandic | english  |
 |-----|--------------------|-------------------|
-| afn | afturbeygt fornafn | inverted pronoun  |
+| afn | afturbeygt fornafn | reflexive pronoun  |
 | ao  | atviksorð          | adverbs           |
 | fn  | fornöfn            | pronouns          |
-| fs  | forsetningar       | presets           |
-| gr  | greinir            | analyzes          |
+| fs  | forsetningar       | preposition           |
+| gr  | greinir            | articles          |
 | hk  | hvorugkynsnafnorð  | neuter nouns      |
 | kk  | karlkynsnafnorð    | masculine nouns   |
 | kvk | kvenkynsnafnorð    | feminine nouns    |
