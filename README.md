@@ -16,11 +16,11 @@ https://bin.arnastofnun.is/gogn/mimisbrunnur/
 | kk  | karlkynsnafnorð    | masculine nouns   |
 | kvk | kvenkynsnafnorð    | feminine nouns    |
 | lo  | lýsingarorð        | adjectives        |
-| nhm | nafnháttarmerki    | nameplate         |
+| nhm | nafnháttarmerki    | infinitive particle|
 | pfn | persónufornöfn     | personal pronouns |
-| rt  | raðtölur           | serial numbers    |
+| rt  | raðtölur           | ordinal number    |
 | so  | sagnorð            | verbs             |
-| st  | samtengingar       | interconnections  |
+| st  | samtengingar       | conjunction  |
 | to  | töluorð            | numerals          |
 | uh  | upphrópanir        | exclamations      |
 
